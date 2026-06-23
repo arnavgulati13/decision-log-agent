@@ -1,0 +1,9 @@
+{
+  "pending_operation": {
+    "operation_name": "projects/1052358563971/locations/us-central1/reasoningEngines/6272026091938906112/operations/628499117227638784",
+    "project": "arnav-sandbox",
+    "location": "us-central1",
+    "deployment_target": "agent_runtime",
+    "started_at": "2026-06-23T17:04:23.292909+00:00"
+  }
+}
